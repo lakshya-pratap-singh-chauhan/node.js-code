@@ -1,4 +1,5 @@
-let score = 1
-let booleanScore = boolean (score)
-console.log(bollean);
+const newGame = new String('lakshya')
+console.log(newGame.charAt(2));
+console.log(newGame.indexof(h));
+
 
